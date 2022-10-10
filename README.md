@@ -1,4 +1,4 @@
-# monster-game-components
+# monster-game
 
 ## Project setup
 ```
